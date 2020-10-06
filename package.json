@@ -1,6 +1,6 @@
 {
-  "name": "json-bigint",
-  "version": "1.0.0",
+  "name": "@exodus/json-bigint",
+  "version": "1.0.0-exodus.1",
   "description": "JSON.parse with bigints support",
   "main": "index.js",
   "files": [
@@ -25,7 +25,7 @@
   "author": "Andrey Sidorov <sidorares@yandex.ru>",
   "license": "MIT",
   "dependencies": {
-    "bignumber.js": "^9.0.0"
+    "bignumber.js": "^8.1.1"
   },
   "devDependencies": {
     "chai": "4.2.0",
